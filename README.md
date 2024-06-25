@@ -36,7 +36,7 @@ project/
 | 4    | Object Identification     | Ultralytics YOLOv8n (state-of-the-art object detection model, easy to use and highly accurate)                      |
 | 5    | Team Identification       | OpenCV (cv2.inRange for color segmentation to identify teams)                                                       |
 | 6    | Jersey Number Recognition | EasyOCR (deep learning-based OCR tool that is highly accurate and easy to use)                                      |
-| 7    | Object Tracking           | ByteTrack (one-shot detection-based approach integrating detection and tracking for improved efficiency)            |
+| 7    | Object Tracking           | ByteTrack by Supervision (one-shot detection-based approach)                                                        |
 
 ## Requirements
 - Python 3.8+
